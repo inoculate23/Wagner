@@ -730,7 +730,7 @@
     {
       "mesh": 2,
       "name": "Object_5"
-    },`
+    },
     {
       "mesh": 3,
       "name": "Object_6"
